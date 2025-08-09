@@ -6,7 +6,7 @@ A journey to master Python through building 100 practical scripts. Each script s
 
 ### Week 1-2: Foundations (1-20)
 
-- ✅ 001 - File Renamer - Bulk rename files with patterns
+- [x] 001 - File Renamer - Bulk rename files with patterns
 - [ ] 002 - Password Generator - Create secure random passwords
 - [ ] 003 - Text File Analyzer - Count words, lines, characters
 - [ ] 004 - Temperature Converter - Convert between C, F, K
