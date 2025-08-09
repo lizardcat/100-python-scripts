@@ -1,0 +1,110 @@
+# Core data processing and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Web scraping and HTTP requests
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+selenium>=4.5.0
+
+# GUI development
+tkinter  # Usually comes with Python, but listed for clarity
+PyQt5>=5.15.0  # Alternative GUI framework
+
+# Image processing
+Pillow>=9.0.0
+opencv-python>=4.6.0
+
+# Data visualization
+matplotlib>=3.5.0
+plotly>=5.10.0
+seaborn>=0.11.0
+
+# File format handling
+openpyxl>=3.0.0  # Excel files
+python-docx>=0.8.0  # Word documents
+PyPDF2>=2.10.0  # PDF files
+python-pptx>=0.6.0  # PowerPoint files
+
+# API and web frameworks
+flask>=2.2.0
+fastapi>=0.85.0
+uvicorn>=0.18.0  # ASGI server for FastAPI
+
+# Database
+sqlite3  # Built into Python
+sqlalchemy>=1.4.0
+pymongo>=4.2.0  # MongoDB
+
+# Automation and system
+schedule>=1.1.0  # Job scheduling
+psutil>=5.9.0  # System monitoring
+pyautogui>=0.9.0  # Mouse/keyboard automation
+watchdog>=2.1.0  # File system monitoring
+
+# Email and communication
+smtplib  # Built into Python
+imaplib  # Built into Python
+python-telegram-bot>=13.14
+
+# Cryptography and security
+cryptography>=37.0.0
+hashlib  # Built into Python
+secrets  # Built into Python
+
+# Machine learning (for advanced scripts)
+scikit-learn>=1.1.0
+tensorflow>=2.9.0
+torch>=1.12.0
+
+# Natural language processing
+nltk>=3.7
+textblob>=0.17.0
+spacy>=3.4.0
+
+# Audio processing
+pydub>=0.25.0
+speech-recognition>=3.8.0
+pyttsx3>=2.90  # Text-to-speech
+
+# Computer vision (advanced)
+face-recognition>=1.3.0
+mediapipe>=0.8.0
+
+# Networking
+socket  # Built into Python
+paramiko>=2.11.0  # SSH connections
+scapy>=2.4.0  # Network packet manipulation
+
+# QR codes and barcodes
+qrcode>=7.3.0
+pyzbar>=0.1.0
+
+# Web automation
+playwright>=1.25.0  # Modern web automation
+chromedriver-autoinstaller>=0.4.0
+
+# Utilities
+python-dotenv>=0.20.0  # Environment variables
+colorama>=0.4.0  # Colored terminal output
+tqdm>=4.64.0  # Progress bars
+click>=8.1.0  # Command line interfaces
+rich>=12.5.0  # Rich text and beautiful formatting
+
+# Testing (for when you want to test your scripts)
+pytest>=7.1.0
+pytest-cov>=3.0.0
+
+# Code quality
+black>=22.6.0  # Code formatter
+flake8>=5.0.0  # Linting
+mypy>=0.971  # Type checking
+
+# Jupyter notebook support (optional, for data analysis scripts)
+jupyter>=1.0.0
+ipython>=8.4.0
+
+# Additional useful libraries
+python-dateutil>=2.8.0  # Date parsing
+pytz>=2022.1  # Timezone handling
+faker>=15.0.0  # Generate fake data for testing
