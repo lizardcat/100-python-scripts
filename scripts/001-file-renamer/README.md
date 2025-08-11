@@ -1,0 +1,1 @@
+For this script, I used `pathlib.Path` and the `rename` function to rename my file. `pathlib.Path` works consistently across operating systems, integrates path operations and file methods in one API, and improves readability compared to os-based functions.
