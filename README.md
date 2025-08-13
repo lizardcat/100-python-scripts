@@ -1,13 +1,11 @@
 # 100 Python Scripts Challenge 🐍
 
-A journey to master Python through building 100 practical scripts. Each script solves a real problem and teaches new concepts.
+A journey to master Python through building 100 or so practical scripts. Each script solves a real problem and teaches new concepts.
 
 ## Progress Tracker
 
-### Week 1-2: Foundations (1-20)
-
 - [x] 001 - File Renamer - Bulk rename files with patterns
-- [ ] 002 - Password Generator - Create secure random passwords
+- [x] 002 - Password Generator - Create secure random passwords
 - [ ] 003 - Text File Analyzer - Count words, lines, characters
 - [ ] 004 - Temperature Converter - Convert between C, F, K
 - [ ] 005 - Simple Calculator - Basic arithmetic operations
@@ -26,9 +24,6 @@ A journey to master Python through building 100 practical scripts. Each script s
 - [ ] 018 - File Size Calculator - Calculate folder sizes
 - [ ] 019 - Text Replace Tool - Find and replace in files
 - [ ] 020 - Simple To-Do List - Command line task manager
-
-### Week 3-4: Data Processing (21-40)
-
 - [ ] 021 - CSV Data Cleaner - Clean and format CSV files
 - [ ] 022 - JSON Parser - Extract data from JSON files
 - [ ] 023 - Excel Report Generator - Create formatted spreadsheets
@@ -49,9 +44,6 @@ A journey to master Python through building 100 practical scripts. Each script s
 - [ ] 038 - Text Sentiment Analyzer - Analyze text mood
 - [ ] 039 - Language Detector - Detect text language
 - [ ] 040 - Keyword Extractor - Extract important keywords
-
-### Week 5-6: Automation & APIs (41-60)
-
 - [ ] 041 - Email Sender - Send automated emails
 - [ ] 042 - Weather Fetcher - Get current weather data
 - [ ] 043 - News Scraper - Fetch latest headlines
@@ -72,9 +64,6 @@ A journey to master Python through building 100 practical scripts. Each script s
 - [ ] 058 - Process Manager - Start/stop programs
 - [ ] 059 - Network Scanner - Scan local network
 - [ ] 060 - Password Manager - Secure password storage
-
-### Week 7-8: GUI & Web (61-80)
-
 - [ ] 061 - Simple Text Editor - Basic text editing GUI
 - [ ] 062 - Image Viewer - Display and browse images
 - [ ] 063 - Calculator GUI - Graphical calculator
@@ -95,9 +84,6 @@ A journey to master Python through building 100 practical scripts. Each script s
 - [ ] 078 - Chat Client - Simple messaging app
 - [ ] 079 - Game Launcher - Launch games from GUI
 - [ ] 080 - Desktop Widget - System info widget
-
-### Week 9-10: Advanced Topics (81-100)
-
 - [ ] 081 - Face Recognition - Detect faces in images
 - [ ] 082 - Text-to-Speech - Convert text to audio
 - [ ] 083 - Speech Recognition - Convert audio to text
