@@ -7,7 +7,7 @@ A journey to master Python through building 100 or so practical scripts. Each sc
 - [x] 001 - File Renamer - Bulk rename files with patterns
 - [x] 002 - Password Generator - Create secure random passwords
 - [x] 003 - Text File Analyzer - Count words, lines, characters
-- [ ] 004 - Temperature Converter - Convert between C, F, K
+- [x] 004 - Temperature Converter - Convert between C, F, K
 - [ ] 005 - Simple Calculator - Basic arithmetic operations
 - [ ] 006 - Random Quote Generator - Display inspirational quotes
 - [ ] 007 - File Organizer - Sort files by extension
