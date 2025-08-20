@@ -1,5 +1,4 @@
 def count_words(text):
-    """Count words in a given text"""
     words = text.lower().split()
     
     word_count = {}
