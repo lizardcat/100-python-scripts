@@ -13,7 +13,6 @@ def divide(x, y):
     return x / y
 
 def get_number(prompt):
-    """Get a valid number from user input"""
     while True:
         try:
             return float(input(prompt))
