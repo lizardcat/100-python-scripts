@@ -11,8 +11,8 @@ A journey to master Python through building 100 or so practical scripts. Each sc
 - [ ] 005 - Simple Calculator - Basic arithmetic operations
 - [ ] 006 - Random Quote Generator - Display inspirational quotes
 - [ ] 007 - File Organizer - Sort files by extension
-- [ ] 008 - Word Counter - Analyze text frequency
-- [ ] 009 - Number Guessing Game - Interactive guessing game
+- [x] 008 - Word Counter - Analyze text frequency
+- [x] 009 - Number Guessing Game - Interactive guessing game
 - [ ] 010 - Unit Converter - Convert various measurements
 - [ ] 011 - Text Encryptor - Simple Caesar cipher
 - [ ] 012 - File Backup Script - Copy important files
