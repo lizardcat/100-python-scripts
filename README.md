@@ -9,7 +9,7 @@ A journey to master Python through building 100 or so practical scripts. Each sc
 - [x] 003 - Text File Analyzer - Count words, lines, characters
 - [x] 004 - Temperature Converter - Convert between C, F, K
 - [ ] 005 - Simple Calculator - Basic arithmetic operations
-- [ ] 006 - Random Quote Generator - Display inspirational quotes
+- [ ] 006 - Rock, Paper, Scissors - Play the game!
 - [ ] 007 - File Organizer - Sort files by extension
 - [x] 008 - Word Counter - Analyze text frequency
 - [x] 009 - Number Guessing Game - Interactive guessing game
