@@ -15,7 +15,7 @@ A journey to master Python through building 100 or so practical scripts. Each sc
 - [x] 009 - Number Guessing Game - Interactive guessing game
 - [ ] 010 - Unit Converter - Convert various measurements
 - [ ] 011 - Text Encryptor - Simple Caesar cipher
-- [ ] 012 - File Backup Script - Copy important files
+- [ ] 012 - Magic 8 Ball - Gives a cryptic answer based on random number
 - [ ] 013 - Directory Cleaner - Remove empty folders
 - [ ] 014 - Log File Parser - Extract specific information
 - [ ] 015 - Contact Book - Simple contact management
