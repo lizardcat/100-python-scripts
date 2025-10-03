@@ -13,7 +13,7 @@ A journey to master Python through building 100 or so practical scripts. Each sc
 - [ ] 007 - File Organizer - Sort files by extension
 - [x] 008 - Word Counter - Analyze text frequency
 - [x] 009 - Number Guessing Game - Interactive guessing game
-- [ ] 010 - Unit Converter - Convert various measurements
+- [ ] 010 - Conway's Game of Life - Cellular automation
 - [ ] 011 - Text Encryptor - Simple Caesar cipher
 - [x] 012 - Magic 8 Ball - Gives a cryptic answer based on random number
 - [ ] 013 - Directory Cleaner - Remove empty folders
