@@ -1,27 +1,32 @@
-# A simple rock, paper, scissors game
-
 import random
-import sys
 
-rock = 0
-scissors = 0
-paper = 0
-tie = 0
-win = 0
-lose = 0
+choices = ["rock", "paper", "scissors"]
+player_score = 0
+computer_score = 0
 
-print("Let's play rock, paper, scissors!")
-print("Enter 'r' for rock, 'p' for paper, 's' for scissors, or 'q' for quit!")
+while True:
+    player = input("Choose rock, paper, scissors or q to quit: ").lower()
+    if player == "q":
+        print(f"\nFinal score - You: {player_score}, Computer: {computer_score}")
+        break
+    if player not in choices:
+        print("Invalid choice")
+        continue
 
-userChoice = str(input())
+    computer = random.choice(choices)
+    print(f"Computer chose {computer}")
 
-if userChoice == "q":
-    sys.exit
-elif userChoice == "r":
-    rock += 1
-elif userChoice == "p":
-    paper += 1
-elif userChoice == "s":
-    scissors += 1
+    if player == computer:
+        print("Tie")
+    elif (
+        (player == "rock" and computer == "scissors")
+        or (player == "paper" and computer == "rock")
+        or (player == "scissors" and computer == "paper")
+    ):
+        print("You win this round")
+        player_score += 1
+    else:
+        print("You lose this round")
+        computer_score += 1
 
-botChoice = random.randint(1, 3)
+    print(f"Score - You: {player_score}, Computer: {computer_score}\n")
