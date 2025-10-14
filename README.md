@@ -9,11 +9,11 @@ A journey to master Python through building 100 or so practical scripts. Each sc
 - [x] 003 - Text File Analyzer - Count words, lines, characters
 - [x] 004 - Temperature Converter - Convert between C, F, K
 - [ ] 005 - Simple Calculator - Basic arithmetic operations
-- [ ] 006 - Rock, Paper, Scissors - Play the game!
+- [x] 006 - Rock, Paper, Scissors - Play the game!
 - [ ] 007 - File Organizer - Sort files by extension
 - [x] 008 - Word Counter - Analyze text frequency
 - [x] 009 - Number Guessing Game - Interactive guessing game
-- [ ] 010 - Conway's Game of Life - Cellular automation
+- [x] 010 - Conway's Game of Life - Cellular automation
 - [ ] 011 - Text Encryptor - Simple Caesar cipher
 - [x] 012 - Magic 8 Ball - Gives a cryptic answer based on random number
 - [ ] 013 - Directory Cleaner - Remove empty folders
